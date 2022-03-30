@@ -1,0 +1,20 @@
+a{
+  text-decoration: none;
+
+}
+ul {
+  padding: 0 0 ;
+  min-height: 120px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  background-color: lightgrey;
+
+
+}
+li{
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+}
